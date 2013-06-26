@@ -1,4 +1,3 @@
-Servidor
-========
+Servidor RagnaTrue
 
-Servidor de jogos
+www.ragnatrue.tk
